@@ -5,10 +5,9 @@ The purpose of this project is to gain experience in defining users in a Windows
 
 This project will involve the following activities:
 
-
-    Establish users and groups using Local User and Groups,
-    Create directory structures using File Explorer that will facilitate sharing among groups and ensure the security of individual data, and
-    Create Group Policies to provide privacy warning prior to login, establish account policies, map shared directories and printers.
+- Establish users and groups using Local User and Groups,
+- Create directory structures using File Explorer that will facilitate sharing among groups and ensure the security of individual data, and
+- Create Group Policies to provide privacy warning prior to login, establish account policies, map shared directories and printers.
 
 
 *NOTE: If something does not work the way you expected, please add those comments to your homework report.*
